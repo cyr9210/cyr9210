@@ -5,7 +5,7 @@
 [![cyr9210's github stats](https://github-readme-stats.vercel.app/api?username=cyr9210)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3>🛠 Tech Stack 🛠</h3>
+<h3>Tech Stack</h3>
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></a>
@@ -17,6 +17,13 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <!-- <img src="https://img.shields.io/badge/DynamoDB-E6B91E?style=flat-square&logo=amazonDynamoDB&logoColor=white"/></a> -->
 </p>
+
+<h3>About me</h3>
+<p>
+[Resume](https://resume.devbong.com)
+[BLOG](https://blog.devbong.com)
+</p>
+
 
 <!--
 **cyr9210/cyr9210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
