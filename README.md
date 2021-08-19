@@ -5,8 +5,8 @@
 [![cyr9210's github stats](https://github-readme-stats.vercel.app/api?username=cyr9210)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
+<h3>🛠 Tech Stack 🛠</h3>
+<p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
