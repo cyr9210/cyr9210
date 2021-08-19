@@ -18,12 +18,6 @@
 <!-- <img src="https://img.shields.io/badge/DynamoDB-E6B91E?style=flat-square&logo=amazonDynamoDB&logoColor=white"/></a> -->
 </p>
 
-<h3>About me</h3>
-<p>
-[Resume](https://resume.devbong.com)
-[BLOG](https://blog.devbong.com)
-</p>
-
 
 <!--
 **cyr9210/cyr9210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
