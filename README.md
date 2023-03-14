@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/Redis-FE2E2E?style=flat-square&logo=Redis&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Rabbitmq-FF8000?style=flat-square&logo=Rabbitmq&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat-square"/></a>
 <!-- <img src="https://img.shields.io/badge/DynamoDB-E6B91E?style=flat-square&logo=amazonDynamoDB&logoColor=white"/></a> -->
 </p>
 
