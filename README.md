@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/Redis-FE2E2E?style=flat-square&logo=Redis&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Rabbitmq-FF8000?style=flat-square&logo=Rabbitmq&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<br/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <!-- <img src="https://img.shields.io/badge/DynamoDB-E6B91E?style=flat-square&logo=amazonDynamoDB&logoColor=white"/></a> -->
 </p>
 
